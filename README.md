@@ -2,8 +2,9 @@
 
 This is a simple website project for showing how to use Git and Gthub together.
 
-
 ## Introduction
+
+This example is to show different of the Git repository and various commands using a web project.
 
 ## Purpose
 
